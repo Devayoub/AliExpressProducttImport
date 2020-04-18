@@ -1,4 +1,4 @@
-# ALPSCRAPER App REST API
+# Aliexpress Product Scraper App REST API
 
 ## Prerequisites
 
