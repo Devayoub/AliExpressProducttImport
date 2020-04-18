@@ -1,0 +1,56 @@
+Project Title : 
+Aliexpress product scraper
+
+Project Overview:
+
+Scrap selected Product from aliExpress manage them and export the WooComerce and shopify 
+
+Project Description 
+
+a User can install a chrome extention 
+
+user create an account and autanticate
+
+user select products to export 
+
+then click submit to upload them in the application dashboead
+
+application features:
+the application offer a set of features like:
+modify imported product (title /desccription/ Price)
+export as json /xls /xml
+export to woocomerce
+export to shopify
+export to youcan
+
+
+phase 1 Of the Project:
+
+create Api that search a product and scrap its details
+
+
+phase 2 :
+
+-create chrome extention that enable user to select product (select Id) 
+and save it into a list
+
+phase 3
+
+integrate the api into the chrome exention
+
+
+phase 4: 
+User auth,
+store product in db and manage them 
+export to json
+
+phase 5 :
+
+export to woocomerce /shopify/youcan
+
+_________________Part1______________________
+
+create api 
+endpoints : 
+getProduct(Name) 
+

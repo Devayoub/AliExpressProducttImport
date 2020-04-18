@@ -1,0 +1,5 @@
+{
+  "port": 3003,
+  "waitTime": 1500,
+  "logLevel": "debug"
+}
